@@ -1,0 +1,6 @@
+{
+  "name": "CampusGuard",
+  "description": "Native Android student safety app for CampusGuard LAN emergency alert monitoring and response",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

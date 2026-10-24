@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Crest -->
+    <path
+        android:fillColor="#B8EC73"
+        android:pathData="M54,26 L76,34 C76,55 67,69 54,78 C41,69 32,55 32,34 Z" />
+    <!-- Inner Dark Core Shield -->
+    <path
+        android:fillColor="#112B36"
+        android:pathData="M54,30 L72,37 C72,53 64,65 54,73 C44,65 36,53 36,37 Z" />
+    <!-- Emergency Broadcast Pulse / Check Icon inside -->
+    <path
+        android:fillColor="#B8EC73"
+        android:pathData="M48,52 L43,47 L40,50 L48,58 L68,38 L65,35 Z" />
+    <!-- Emergency Signal Beacon Dot at Top -->
+    <path
+        android:fillColor="#D74735"
+        android:pathData="M54,36 A 3,3 0 1,1 53.99,36" />
+</vector>
